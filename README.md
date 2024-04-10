@@ -7,11 +7,9 @@
 7. Run the script http://localhost/studentms
 
 Admin Credential
-
 Username: admin
 Password: Test@123
 
 Credential for Student / User panel :        
-
 Username: 21MCA0011
 Password: Blue@1234
